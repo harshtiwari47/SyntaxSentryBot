@@ -1,0 +1,30 @@
+{
+  "users": {
+    "1223321207743582211": {
+      "badges": [
+        "Novice",
+        "Apprentice",
+        "Streaker",
+        "Expert",
+        "Streaker II",
+        "Adept",
+        "Streaker III",
+        "Journeyman",
+        "Gold Badge"
+      ],
+      "level": 8,
+      "syntaxPoints": 750,
+      "correctAnswers": 36,
+      "streak": 36,
+      "normalBoxes": 0,
+      "rareBoxes": 0,
+      "legendaryBoxes": 4
+    }
+  },
+  "loginRewards": {
+    "1223321207743582211": "Mon Jul 29 2024"
+  },
+  "roles": {
+    "1223321207743582211": "<☆Ordinary>"
+  }
+}

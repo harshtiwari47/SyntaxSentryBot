@@ -1,0 +1,8 @@
+{
+  "items": {
+    "royal": { "name": "Royal Badge", "price": 1000, "type": "BADGE" },
+    "diamond": { "name": "Diamond Badge", "price": 2000, "type": "BADGE" },
+    "platinum": { "name": "Platinum Badge", "price": 3000, "type": "BADGE" },
+    "gold": { "name": "Gold Badge", "price": 500, "type": "BADGE" }
+  }
+}
