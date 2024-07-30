@@ -30,10 +30,10 @@ SyntaxSentry is a Discord bot designed to enhance the user experience in your se
     npm install
     ```
 
-<!-- 3. Create a `.env` file in the root directory and add your bot token:
+3. Create a `.env` file in the root directory and add your bot token:
     ```
     TOKEN=your-discord-bot-token
-    ``` -->
+    ```
 
 4. Create a `config.json` file in the root directory with the following content:
     ```json
